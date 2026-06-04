@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 I'm am James. I am an ML researcher, PhD at UCL Center of AI and formerly at the National University of Singapore (NUS) where I graduated with First Class Honours and the Ho Family Prize.
+💻 I'm James. I am an ML researcher, PhD at UCL Center of AI and formerly at the National University of Singapore (NUS) where I graduated with First Class Honours and the Ho Family Prize.
 
 🧠 I work with Emtiyaz Khan at RIKEN's Advanced Intelligence Project on approximate Bayesian inference. My research spans ML theory, variational methods, and philosophy of science — with two papers accepted to ICML 2026: an oral on SVRG and Beyond via Posterior Correction and a workshop paper on Explanation in an Emerging Science of Large Language Models. 
 
